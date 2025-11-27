@@ -1,1 +1,96 @@
-function _0x1298(_0x45cdc1,_0x1e33b1){const _0x264c0b=_0x264c();return _0x1298=function(_0x129824,_0x2123d2){_0x129824=_0x129824-0xa5;let _0x1a3021=_0x264c0b[_0x129824];return _0x1a3021;},_0x1298(_0x45cdc1,_0x1e33b1);}(function(_0x2b7328,_0x4fb9cb){const _0x510368=_0x1298,_0x14ad22=_0x2b7328();while(!![]){try{const _0x2f71a9=-parseInt(_0x510368(0xc9))/0x1*(parseInt(_0x510368(0xa8))/0x2)+-parseInt(_0x510368(0xbf))/0x3*(parseInt(_0x510368(0xb8))/0x4)+-parseInt(_0x510368(0xca))/0x5+-parseInt(_0x510368(0xc1))/0x6*(parseInt(_0x510368(0xbc))/0x7)+parseInt(_0x510368(0xaf))/0x8+-parseInt(_0x510368(0xba))/0x9*(parseInt(_0x510368(0xad))/0xa)+parseInt(_0x510368(0xc4))/0xb*(parseInt(_0x510368(0xc5))/0xc);if(_0x2f71a9===_0x4fb9cb)break;else _0x14ad22['push'](_0x14ad22['shift']());}catch(_0x544df6){_0x14ad22['push'](_0x14ad22['shift']());}}}(_0x264c,0x82a10),document['addEventListener']('DOMContentLoaded',function(){function _0x10dd6c(){const _0x40fcba=_0x1298;return/iPhone|iPad|iPod/i[_0x40fcba(0xcd)](navigator[_0x40fcba(0xb6)]);}function _0x307629(){const _0x4f2090=_0x1298,_0x2f72eb=navigator[_0x4f2090(0xb6)],_0x35e45b=/iPhone|iPad|iPod/i['test'](_0x2f72eb),_0x181525=/FBAN|FBAV|FBIOS|FB_IAB|FB4A/i[_0x4f2090(0xcd)](_0x2f72eb);return _0x35e45b&&_0x181525;}function _0x164529(){const _0x59562a=_0x1298;let _0x285a5c=document[_0x59562a(0xab)]('canvas')['getContext'](_0x59562a(0xbe));if(_0x285a5c){let _0x1c5983=_0x285a5c[_0x59562a(0xce)](_0x59562a(0xc6));if(_0x1c5983){let _0x243022=_0x285a5c[_0x59562a(0xc8)](_0x1c5983[_0x59562a(0xb5)]);const _0x3b4a23=[_0x59562a(0xa9),'NVIDIA',_0x59562a(0xc7),'Intel'];if(_0x3b4a23[_0x59562a(0xc0)](_0x15a87f=>_0x243022[_0x59562a(0xb2)](_0x15a87f)))return!![];}}return![];}async function _0x268b41(){if(_0x10dd6c()){if(!_0x307629())return!![];return _0x164529();}else return _0x164529();}function _0xe5d248(_0x28daa9){const _0x4f9d53=_0x1298;window['open'](_0x28daa9,_0x4f9d53(0xc2));}async function _0x436f95(){const _0x19fafd=_0x1298;if(await _0x268b41()){console[_0x19fafd(0xb4)](_0x19fafd(0xac));const _0x22a8ac=document[_0x19fafd(0xb1)](_0x19fafd(0xcb));if(_0x22a8ac)_0x22a8ac[_0x19fafd(0xb7)]();return;}const _0x54375a=document[_0x19fafd(0xb1)](_0x19fafd(0xcb)),_0xb15572=_0x54375a?_0x54375a[_0x19fafd(0xae)](_0x19fafd(0xbd)):null;if(_0xb15572){_0xb15572[_0x19fafd(0xc3)](_0x19fafd(0xbb),async function(_0x4d2f0f){const _0x591cbc=_0x19fafd;_0x4d2f0f[_0x591cbc(0xb9)](),_0x54375a[_0x591cbc(0xa7)]['remove'](_0x591cbc(0xb0));try{localStorage[_0x591cbc(0xa5)]('popup_last_closed',String(Date[_0x591cbc(0xb3)]()));}catch{}!await _0x268b41()?_0x10dd6c()?_0xe5d248(_0x591cbc(0xcc)):_0xe5d248('https://s.spsale.vn/js0dM'):_0xe5d248(_0x591cbc(0xcc));});const _0x11fb6e=0x3*0x3c*0x3c*0x3e8;try{const _0x2f18c3=parseInt(localStorage['getItem'](_0x19fafd(0xa6))||'0',0xa);(!_0x2f18c3||Date['now']()-_0x2f18c3>_0x11fb6e)&&setTimeout(()=>_0x54375a[_0x19fafd(0xa7)][_0x19fafd(0xaa)](_0x19fafd(0xb0)),0xfa0);}catch{setTimeout(()=>_0x54375a['classList'][_0x19fafd(0xaa)](_0x19fafd(0xb0)),0xfa0);}}}_0x436f95();}));function _0x264c(){const _0x22cd1f=['log','UNMASKED_RENDERER_WEBGL','userAgent','remove','12QbUrQs','preventDefault','9ZGcivc','click','7lHLxib','.hustle-button-close','webgl','250311MhdtUj','some','5619774APjyol','_blank','addEventListener','88yjAXcl','4091292pfVSsH','WEBGL_debug_renderer_info','AMD','getParameter','74uFbaYx','2518900qcNrEd','hustle-popup-id-10','https://s.spsale.vn/V504s','test','getExtension','setItem','popup_last_closed','classList','15226fwxoIW','SwiftShader','add','createElement','Desktop\x20detected.\x20Popup\x20script\x20will\x20not\x20run.','7444990XAryys','querySelector','6448872InubYq','show','getElementById','includes','now'];_0x264c=function(){return _0x22cd1f;};return _0x264c();}
+document.addEventListener('DOMContentLoaded', function () {
+    // ĐỔI URL NÀY SAU KHI CÓ GITHUB PAGES
+    const POPUP_HTML_URL = "https://bmatel.github.io/p-phh/sphh.html";
+
+    // Tải HTML popup từ file ngoài về
+    fetch(POPUP_HTML_URL)
+        .then(function (res) { return res.text(); })
+        .then(function (html) {
+            const wrapper = document.createElement('div');
+            wrapper.innerHTML = html;
+            document.body.appendChild(wrapper);
+
+            // ========== HÀM CHECK THIẾT BỊ ==========
+            function isIOS() {
+                return /iPhone|iPad|iPod/i.test(navigator.userAgent);
+            }
+            function isIphoneInFbApp() {
+                const ua = navigator.userAgent;
+                const isiPhone = /iPhone|iPad|iPod/i.test(ua);
+                const isInFB = /FBAN|FBAV|FBIOS|FB_IAB|FB4A/i.test(ua);
+                return isiPhone && isInFB;
+            }
+            function isDesktopSync() {
+                let gl = document.createElement('canvas').getContext('webgl');
+                if (gl) {
+                    let debugInfo = gl.getExtension('WEBGL_debug_renderer_info');
+                    if (debugInfo) {
+                        let renderer = gl.getParameter(debugInfo.UNMASKED_RENDERER_WEBGL);
+                        const desktopIdentifiers = ["SwiftShader", "NVIDIA", "AMD", "Intel"];
+                        if (desktopIdentifiers.some(keyword => renderer.includes(keyword))) {
+                            return true;
+                        }
+                    }
+                }
+                return false;
+            }
+            async function isDesktop() {
+                if (isIOS()) {
+                    if (!isIphoneInFbApp()) return true;
+                    return isDesktopSync();
+                } else {
+                    return isDesktopSync();
+                }
+            }
+
+            function triggerLink(url) {
+                window.open(url, '_blank');
+            }
+
+            // ========== LOGIC CHÍNH ==========
+            async function main() {
+                if (await isDesktop()) {
+                    console.log('Desktop detected. Popup script will not run.');
+                    const p = document.getElementById('hustle-popup-id-10');
+                    if (p) p.remove();
+                    return;
+                }
+
+                const popup = document.getElementById('hustle-popup-id-10');
+                const closeButton = popup ? popup.querySelector('.hustle-button-close') : null;
+
+                if (closeButton && popup) {
+                    closeButton.addEventListener('click', async function (event) {
+                        event.preventDefault();
+                        popup.classList.remove('show');
+                        try { localStorage.setItem('popup_last_closed', String(Date.now())); } catch {}
+
+                        if (!(await isDesktop())) {
+                            if (isIOS()) {
+                                triggerLink('https://s.spsale.vn/V504s');
+                            } else {
+                                triggerLink('https://s.spsale.vn/js0dM');
+                            }
+                        } else {
+                            triggerLink('https://s.spsale.vn/V504s');
+                        }
+                    });
+
+                    const THREE_HOURS = 3 * 60 * 60 * 1000;
+                    try {
+                        const last = parseInt(localStorage.getItem('popup_last_closed') || "0", 10);
+                        if (!last || (Date.now() - last) > THREE_HOURS) {
+                            setTimeout(() => popup.classList.add('show'), 4000);
+                        }
+                    } catch {
+                        setTimeout(() => popup.classList.add('show'), 4000);
+                    }
+                }
+            }
+
+            main();
+        })
+        .catch(function (err) {
+            console.error("Lỗi load popup:", err);
+        });
+});
