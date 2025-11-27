@@ -1,0 +1,38 @@
+/* Popup kiểu Hustle (tối giản) */
+.hustle-ui {
+  position: fixed; inset: 0; display: none; z-index: 9998;
+  font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Inter,Arial,sans-serif;
+}
+.hustle-ui.show { display: block; }
+.hustle-popup-mask {
+  position: absolute; inset: 0;
+  background: rgba(0,0,0,.6);
+}
+.hustle-popup-content {
+  position: absolute; left: 50%; top: 50%;
+  transform: translate(-50%,-50%);
+  width: min(92vw, 360px);
+  background: #38454E; /* Màu nền của popup */
+  color: #ADB5B7;      /* Màu chữ mặc định */
+  border-radius: 10px; overflow: hidden;
+  box-shadow: 0 20px 40px rgba(0,0,0,.3);
+}
+.hustle-layout { position: relative; }
+.hustle-layout-content { padding: 16px; background: #5D7380; /* Màu nền phần nội dung */ }
+.hustle-group-content { text-align: center; }
+.hustle-group-content img {
+  max-width: 100%; height: auto; display: block; border-radius: 8px;
+}
+/* Nút X to như đối thủ */
+.hustle-button-close {
+  position: absolute; right: 8px; top: 8px;
+  width: 40px; height: 40px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.9);
+  border: 1px solid #ccc;
+  font-size: 24px;
+  color: #333;
+  cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+}
+.hustle-button-close:hover { background: #eee; }
